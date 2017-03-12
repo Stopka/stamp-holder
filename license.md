@@ -1,6 +1,7 @@
 # License
 
-## Creative Commons Attribution 4.0 International
+## Attribution-ShareAlike 4.0 International
 
-*  Human Readable License: http://creativecommons.org/licenses/by/4.0/
-*  Complete Legal Terms: http://creativecommons.org/licenses/by/4.0/legalcode
+*  License: CC BY-SA 4.0
+*  Human Readable License: https://creativecommons.org/licenses/by-sa/4.0/
+*  Complete Legal Terms: https://creativecommons.org/licenses/by-sa/4.0/legalcode
