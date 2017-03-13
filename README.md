@@ -1,2 +1,2 @@
-# stamp-holder
-Stamp holder OpenScad model for 3D print
+# Stamp holder
+Stamp body OpenScad model for 3D print with parametrized dimensions
